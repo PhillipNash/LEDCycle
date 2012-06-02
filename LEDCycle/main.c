@@ -3,7 +3,6 @@
 #define LED_PORTJ (BIT0 | BIT1 | BIT2 | BIT3)
 #define LED_PORT3 (BIT4 | BIT5 | BIT6 | BIT7)
 
-
 void cycle()
 {
 
